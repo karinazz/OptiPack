@@ -1,0 +1,62 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/karin/Documents/NetBeansProjects/WPIAA_zad1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/karin/Documents/NetBeansProjects/WPIAA_zad1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'WPIAA_zad1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'WPIAA_zad1 1.0-SNAPSHOT API'
+'C:/Users/karin/Documents/NetBeansProjects/WPIAA_zad1/src/main/java/Backpack.java'
+'C:/Users/karin/Documents/NetBeansProjects/WPIAA_zad1/src/main/java/BackpackFactory.java'
+'C:/Users/karin/Documents/NetBeansProjects/WPIAA_zad1/src/main/java/Factory.java'
+'C:/Users/karin/Documents/NetBeansProjects/WPIAA_zad1/src/main/java/Item.java'
+'C:/Users/karin/Documents/NetBeansProjects/WPIAA_zad1/src/main/java/Main.java'
+'C:/Users/karin/Documents/NetBeansProjects/WPIAA_zad1/src/main/java/NewBackpack.java'
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\src\main\java\Backpack.java = 1705890380890
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\src\main\java\BackpackFactory.java = 1705891232063
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\src\main\java\Factory.java = 1705891410185
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\src\main\java\Item.java = 1705890556499
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\src\main\java\Main.java = 1705889838259
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\src\main\java\NewBackpack.java = 1705890206477
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\src\main\java = 1705887056804
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\allclasses-index.html = 1705891430186
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\allpackages-index.html = 1705891430187
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\Backpack.html = 1705891430126
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\BackpackFactory.html = 1705891430130
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\element-list = 1705891430160
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\Factory.html = 1705891430143
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\help-doc.html = 1705891430197
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\index-all.html = 1705891430194
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\index.html = 1705891430195
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\Item.html = 1705891430149
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\jquery-ui.overrides.css = 1705891430201
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\Main.html = 1705891430153
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\member-search-index.js = 1705891430189
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\module-search-index.js = 1705891430188
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\NewBackpack.html = 1705891430159
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\overview-tree.html = 1705891430179
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\package-search-index.js = 1705891430188
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\package-summary.html = 1705891430163
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\package-tree.html = 1705891430166
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\package-use.html = 1705891430177
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\script.js = 1705891430198
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\search.js = 1705891430198
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\stylesheet.css = 1705891430197
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\tag-search-index.js = 1705891430189
+C:\Users\karin\Documents\NetBeansProjects\WPIAA_zad1\target\site\apidocs\type-search-index.js = 1705891430188
